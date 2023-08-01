@@ -1,5 +1,5 @@
 name: nice_overlay
-description: A new Flutter package project.
+description: A package for controlling overlay components such as in-app notification, toast, and snack bar.
 version: 1.0.0
 homepage: https://github.com/terry1213/nice_overlay
 issue_tracker: https://github.com/terry1213/nice_overlay/issues

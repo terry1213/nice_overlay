@@ -1,0 +1,17 @@
+.DS_Store
+.dart_tool/
+.packages
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+build/
+ios/
+android/
+linux/
+macos/
+windows/
+
+pubspec.lock

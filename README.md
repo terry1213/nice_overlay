@@ -2,17 +2,22 @@ A package for controlling overlay components such as in-app notification, toast,
 
 ## Features
 
+<img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/in_app_notification.gif" width="320px" />
+<img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/snack_bar.gif" width="320px" />
+<img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/toast.gif" width="320px" />
+
 * Support all platforms(Implemented only with dart)
 * Provide several types of overlays
   * in-app notification
   * toast
   * snack bar
 * Various overlay control features
-  * show 
-  * close 
+  * set display priority
+  * show
+  * close
   * close all
   * queued
-  * clear queue 
+  * clear queue
   * dismissible
 * Easily customizable
   * animation

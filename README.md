@@ -1,10 +1,12 @@
+<center><img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/nice.gif" width="150"/></center>
+
 A package for controlling overlay components such as in-app notification, toast, and snack bar.
 
 ## Features
 
-<img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/in_app_notification.gif" width="320px" />
-<img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/snack_bar.gif" width="320px" />
-<img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/toast.gif" width="320px" />
+|                                 <div style="width:200px; text-align: center">In App Notification</div>                                  |                                      <div style="width:200px">Snack Bar</div>                                       |                                    <div style="width:200px">Toast</div>                                     |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+|  ![in_app_notification.gif](https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/in_app_notification.gif?row=true)  |  ![snack_bar.gif](https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/snack_bar.gif?row=true)  |  ![toast.gif](https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/toast.gif?row=true)  |
 
 * Support all platforms(Implemented only with dart)
 * Provide several types of overlays

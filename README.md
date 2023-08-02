@@ -1,4 +1,6 @@
-<center><img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/nice.gif" width="150"/></center>
+<p  align="center">
+<img src="https://raw.githubusercontent.com/terry1213/nice_overlay/main/screenshot/nice.gif" width="200"/>
+</p>
 
 A package for controlling overlay components such as in-app notification, toast, and snack bar.
 

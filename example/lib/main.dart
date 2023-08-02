@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
                   NiceInAppNotification(
                     title: const Text('In app notification'),
                     body: const Text('What a nice in app notification!'),
-                    onTap: () => print('Tap'),
+                    onTap: () => debugPrint('Tap'),
                   ),
                 ),
               ),
@@ -64,7 +64,7 @@ class HomePage extends StatelessWidget {
                 onPressed: () => NiceOverlay.showToast(
                   NiceToast(
                     message: const Text('What a nice toast!'),
-                    onTap: () => print('Tap'),
+                    onTap: () => debugPrint('Tap'),
                   ),
                 ),
               ),

@@ -61,7 +61,6 @@ class NiceSnackBar extends StatefulWidget implements NiceComponent {
   /// Whether [NiceSnackBar] avoids safe area(operating system interfaces).
   final bool useSafeArea;
 
-
   const NiceSnackBar({
     Key? key,
     this.message,

@@ -54,8 +54,8 @@ NiceOverlay.init(navigatorKey);
 
 ```dart
 MaterialApp(
-navigatorKey: navigatorKey,
-// ...
+    navigatorKey: navigatorKey,
+    // ...
 );
 ```
 
@@ -68,28 +68,28 @@ navigatorKey: navigatorKey,
 
 // in-app notification
 NiceOverlay.showInAppNotification(
-NiceInAppNotification(
-title: const Text('In app notification'),
-body: const Text('What a nice in app notification!'),
-),
+    NiceInAppNotification(
+        title: const Text('In app notification'),
+        body: const Text('What a nice in app notification!'),
+    ),
 );
 
 // snack bar
 NiceOverlay.showSnackBar(
-NiceSnackBar(
-message: Text('What a nice snack bar!'),
-action: GestureDetector(
-onTap: NiceOverlay.closeSnackBar,
-child: const Text('close'),
-),
-),
+    NiceSnackBar(
+        message: Text('What a nice snack bar!'),
+        action: GestureDetector(
+            onTap: NiceOverlay.closeSnackBar,
+            child: const Text('close'),
+        ),
+    ),
 );
 
 // toast
 NiceOverlay.showToast(
-NiceToast(
-message: const Text('What a nice toast!'),
-),
+    NiceToast(
+        message: const Text('What a nice toast!'),
+    ),
 );
 ```
 
